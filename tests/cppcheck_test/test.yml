@@ -1,0 +1,4 @@
+weight: 2.0
+name: 'Test sintactico'
+message: 'Su programa no sigue con los estandares de C++ Standards'
+show_output: true
